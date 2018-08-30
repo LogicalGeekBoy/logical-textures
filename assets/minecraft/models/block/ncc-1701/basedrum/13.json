@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "block/ncc-1701/basedrum/13",
+    "down": "block/ncc-1701/blank",
+    "north": "block/ncc-1701/blank",
+    "south": "block/ncc-1701/blank",
+    "east": "block/ncc-1701/blank",
+    "west": "block/ncc-1701/blank"
+  }
+}
