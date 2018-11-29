@@ -1,7 +1,7 @@
 {
   "parent": "block/cube",
   "textures": {
-    "up": "block/ncc-1701/basedrum/17",
+    "up": "block/ncc-1701/xylophone/6",
     "down": "block/ncc-1701/blank",
     "north": "block/ncc-1701/blank",
     "south": "block/ncc-1701/blank",
